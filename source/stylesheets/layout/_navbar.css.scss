@@ -62,7 +62,7 @@
 .navbar-wagon-button:hover {
   color: white;
   background: #D23333;
-  border-color: #ac2626;
+  border-color: $orange;
 }
 
 /* Navbar search form */
@@ -75,7 +75,7 @@
 }
 .navbar-wagon-search-btn {
   line-height: 40px;
-  color: #E6E6E6;
+  color: $orange;
   border: none;
   background: transparent;
   position: absolute;
